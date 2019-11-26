@@ -1,1 +1,1 @@
-echo "Hello Austria!";
+echo "Hello Austria.";
